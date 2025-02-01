@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is **BISHAL ROY** <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhmNGN3bzg4MWc2eWU3aDRjaWNsdWN5eDRxa3A4dmoxNHJ1ZmliOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" width="300" height = 300 align="right"/>
 - :school: I'm a final year PG  student from **KIIT University**
-- :books: My major is **Computer Applications**
+- :books: My major is **Computer Science**
 
 
 
