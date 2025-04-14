@@ -89,6 +89,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurr455565&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr455565&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Your-Repo-Name&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/commit-activity?username=arthurr455565&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ---
 
 ## 📈 Contribution Graph
