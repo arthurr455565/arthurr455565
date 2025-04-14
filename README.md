@@ -113,11 +113,6 @@
 
 ---
 
-## 🕒 GitHub Activity Timeline
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=arthurr455565&theme=tokyonight" />
-</p>
----
 
 
 ## ✨ Fun Fact & Quote
