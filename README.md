@@ -94,10 +94,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/commit-activity?username=arthurr455565&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
