@@ -22,8 +22,7 @@
 
   - 👨‍🎓 Final year PG student at **KIIT University**  
   - 💻 Major in **Computer Science**  
-  - 🧠 Passionate about building full-stack projects  
-  - 📫 Reach me at: [bishalroy909@gmail.com](mailto:bishalroy909@gmail.com)
+  - 🌱 Always learning and experimenting with new technologies to turn ideas into reality.  
 
       </td>
       <td>
@@ -46,8 +45,6 @@
 <p align="center">
   <a href="mailto:bishalroy909@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bishal-roy-458268255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/YOUR_DEVTO_USERNAME"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
@@ -61,7 +58,7 @@
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,git,github,firebase,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,windows,linux,git,github,firebase,androidstudio&theme=light" />
 </p>
 
 ---
@@ -117,7 +114,5 @@
 
 ---
 
-## 🧾 Portfolio & Resume
-
-- 🔗 Portfolio: [bishalroy.dev](https://bishalroy.dev) <!-- Replace with your real link -->
-- 📄 Resume: [Click to View PDF](https://github.com/arthurr455565/resume/raw/main/Bishal_Roy_Resume.pdf)
+## 🧾 Resume
+- 📄 Resume: [Click to View PDF](https://drive.google.com/file/d/1FuxxcgXvateA6dqPtVAuwegVS3JEFF0_/view?usp=drive_link)
