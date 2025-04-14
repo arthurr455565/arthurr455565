@@ -1,23 +1,35 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&duration=4000&color=FF6F91&center=true&vCenter=true&multiline=true&lines=Heyyy!+I'm+Bishal+ROY+%3C3;Welcome+to+my+GitHub+profile!" />
-</p>
-
-<p align="center">
+<!-- Profile views at top-right -->
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=arthurr455565&label=Profile%20views&color=ff69b4&style=flat-square" alt="arthurr455565" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+<!-- Typing animation centered -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&duration=4000&color=FF6F91&center=true&vCenter=true&multiline=true&lines=Hey!+I'm+Bishal+Roy+%F0%9F%92%96;Welcome+to+my+GitHub+profile!" />
+</p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"> About Me
+<!-- About Me with right-aligned image -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
 
-- 👨‍🎓 Final year PG student at **KIIT University**
-- 💻 Major in **Computer Science**
-- 🧠 Passionate about building full-stack projects
-- 📫 Reach me at: [bishalroy909@gmail.com](mailto:bishalroy909@gmail.com)
+  ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
+
+  - 👨‍🎓 Final year PG student at **KIIT University**  
+  - 💻 Major in **Computer Science**  
+  - 🧠 Passionate about building full-stack projects  
+  - 📫 Reach me at: [bishalroy909@gmail.com](mailto:bishalroy909@gmail.com)
+
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -99,6 +111,5 @@
 
 ## 🧾 Portfolio & Resume
 
-##- 🔗 Portfolio: [bishalroy.dev](https://bishalroy.dev) <!-- Update with your actual domain -->
+- 🔗 Portfolio: [bishalroy.dev](https://bishalroy.dev) <!-- Replace with your real link -->
 - 📄 Resume: [Click to View PDF](https://github.com/arthurr455565/resume/raw/main/Bishal_Roy_Resume.pdf)
-
