@@ -73,7 +73,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Diabetes-Prediction-Using-Machine-Learning&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/arthurr455565/Responsive-portfolio-website-Bishal-Roy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Responsive-portfolio-website&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Responsive-portfolio-website-Bishal-Roy&theme=radical&hide_border=true" />
   </a>
 </div>
 
