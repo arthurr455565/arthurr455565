@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="mailto:bishalroy909@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bishal-roy-458268255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bishal-roy-028386193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -66,17 +66,14 @@
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/arthurr455565/CP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=CP&theme=radical&hide_border=true" />
+  <a href="https://github.com/arthurr455565/Preyas-Android-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/arthurr455565/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=DSA&theme=radical&hide_border=true" />
+  <a href="https://github.com/arthurr455565/Diabetes-Prediction-Using-Machine-Learning-master">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Diabetes-Prediction-Using-Machine-Learning&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/arthurr455565/Leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Leetcode&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arthurr455565/Spring-Boot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Spring-Boot&theme=radical&hide_border=true" />
+  <a href="https://github.com/arthurr455565/Responsive-portfolio-website-Bishal-Roy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Responsive-portfolio-website&theme=radical&hide_border=true" />
   </a>
 </div>
 
