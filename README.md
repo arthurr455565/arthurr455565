@@ -14,24 +14,27 @@
 
 <!-- About Me with right-aligned image -->
 <div align="center">
-  <table>
+  <table style="border: none; width: 100%; text-align: left;">
     <tr>
-      <td>
+      <td style="padding-right: 20px; vertical-align: middle; width: 60%;">
 
-  ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
+        <h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me</h2>
 
-  - 👨‍🎓 Final year PG student at **KIIT University**  
-  - 💻 Major in **Computer Science**  
-  - 🧠 Passionate about building full-stack projects  
-  - 📫 Reach me at: [bishalroy909@gmail.com](mailto:bishalroy909@gmail.com)
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>👨‍🎓 Final year PG student at <strong>KIIT University</strong></li>
+          <li>💻 Major in <strong>Computer Science</strong></li>
+          <li>🧠 Passionate about building full-stack projects</li>
+          <li>📫 Reach me at: <a href="mailto:bishalroy909@gmail.com">bishalroy909@gmail.com</a></li>
+        </ul>
 
       </td>
-      <td>
+      <td style="text-align: right; vertical-align: middle; width: 40%;">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
