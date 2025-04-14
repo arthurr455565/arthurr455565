@@ -13,8 +13,10 @@
 ---
 
 <!-- About Me with right-aligned image -->
-<div align="left">
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
 
   ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
 
@@ -23,9 +25,12 @@
   - 🧠 Passionate about building full-stack projects  
   - 📫 Reach me at: [bishalroy909@gmail.com](mailto:bishalroy909@gmail.com)
 
-      
+      </td>
+      <td>
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-      
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
