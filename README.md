@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Your-Repo-Name&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
