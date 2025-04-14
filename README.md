@@ -5,8 +5,9 @@
 
 <!-- Typing animation centered -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4000&color=FFA07A&center=true&vCenter=true&multiline=true&lines=Namaste+🙏;I'm+Bishal+Roy+🧠;Building+cool+things+one+line+at+a+time+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4000&color=00BFFF&center=true&vCenter=true&multiline=true&lines=Yo!+I'm+Bishal+Roy+😎;Coding+my+dreams+into+reality+💡;Explore+my+repos+💼" />
 </p>
+
 
 ---
 
