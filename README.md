@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://github.com/arthurr455565/BookWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=BookWeb&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/arthurr455565/Preyas-Android-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=radical&hide_border=true" />
