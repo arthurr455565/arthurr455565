@@ -21,7 +21,7 @@
   ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
 
   - 👨‍🎓 Final year PG student at **KIIT University**  
-  - 💻 Major in **Computer Science**  
+  - 💻 Major in **Computer Applications**  
   - 🌱 Always learning and experimenting with new technologies to turn ideas into reality.  
 
       </td>
@@ -52,13 +52,13 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,react,html,css,nodejs,mysql,mongodb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,react,html,css,nodejs,mysql,mongodb, firebase&theme=light" />
 </p>
 
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,windows,linux,git,github,firebase,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,windows,linux,git,github,androidstudio&theme=light" />
 </p>
 
 ---
@@ -66,6 +66,9 @@
 ## 📌 Pinned Projects
 
 <div align="center">
+  <a href="https://github.com/arthurr455565/BookWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=radical&hide_border=true" />
+  </a>
   <a href="https://github.com/arthurr455565/Preyas-Android-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=radical&hide_border=true" />
   </a>
@@ -123,4 +126,4 @@
 ---
 
 ## 🧾 Resume
-- 📄 Resume: [Click to View PDF](https://drive.google.com/file/d/1FuxxcgXvateA6dqPtVAuwegVS3JEFF0_/view?usp=drive_link)
+- 📄 Resume: [Click to View PDF](https://drive.google.com/file/d/1hITXS0mnl2dPQ8moZVVAJi2FBif_uh-G/view?usp=drive_link)
