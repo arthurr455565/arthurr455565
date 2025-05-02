@@ -69,12 +69,14 @@
   <a href="https://github.com/arthurr455565/BookWeb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=BookWeb&theme=radical&hide_border=true" />
   </a>
+<a href="https://github.com/arthurr455565/Diabetes-Prediction-Using-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Diabetes-Prediction-Using-ML&theme=radical&hide_border=true" />
+  </a>
+  
   <a href="https://github.com/arthurr455565/Preyas-Android-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/arthurr455565/Diabetes-Prediction-Using-Machine-Learning-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Diabetes-Prediction-Using-Machine-Learning&theme=radical&hide_border=true" />
-  </a>
+  
   <a href="https://github.com/arthurr455565/Responsive-portfolio-website-Bishal-Roy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Responsive-portfolio-website-Bishal-Roy&theme=radical&hide_border=true" />
   </a>
@@ -126,4 +128,4 @@
 ---
 
 ## 🧾 Resume
-- 📄 Resume: [Click to View PDF](https://drive.google.com/file/d/1hITXS0mnl2dPQ8moZVVAJi2FBif_uh-G/view?usp=drive_link)
+- 📄 Resume: [Click to View PDF](https://drive.google.com/file/d/19FwUNNdnWOA-QQrEJtzUP2dloE36o7EZ/view?usp=sharing)
