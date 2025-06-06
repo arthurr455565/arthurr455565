@@ -21,8 +21,6 @@
   - 🎓 MCA Graduate | 💻 Full-Stack Developer  
   - 🚀 Passionate about building real-world applications with clean, scalable code  
   - 🌱 Currently learning microservices, automation, and CI/CD  
-  - 🎯 Aiming to launch my own tech startup in the future
-
     </td>
     <td align="center" width="30%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
