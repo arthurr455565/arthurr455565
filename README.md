@@ -1,36 +1,34 @@
 <!-- Profile views at top-right -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arthurr455565&label=Profile%20views&color=ff69b4&style=flat-square" alt="arthurr455565" />
+  <img src="https://komarev.com/ghpvc/?username=arthurr455565&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile views" />
 </p>
 
 <!-- Typing animation centered -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4000&color=FF6F91&center=true&vCenter=true&multiline=true&lines=Hey!+I'm+Bishal+Roy+%F0%9F%92%96;Welcome+to+my+GitHub+profile!;Feel+free+to+explore+my+work+%F0%9F%91%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=4000&color=FF6F91&center=true&vCenter=true&multiline=true&lines=Hey!+I'm+Bishal+Roy+%F0%9F%92%96;Welcome+to+my+GitHub+profile!;Feel+free+to+explore+my+work+%F0%9F%91%80" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
 <!-- About Me with right-aligned image -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
+<table align="center">
+  <tr>
+    <td valign="top" width="70%">
+      
+  <h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me</h2>
 
-  ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
+  - 👨‍💻 Software Engineer Intern @ Sursa Tech Pvt. Ltd.  
+  - 🎓 MCA Graduate | 💻 Full-Stack Developer  
+  - 🚀 Passionate about building real-world applications with clean, scalable code  
+  - 🌱 Currently learning microservices, automation, and CI/CD  
+  - 🎯 Aiming to launch my own tech startup in the future
 
- - 👨‍💻 Software Engineer Intern @ Sursa Tech Pvt. Ltd. | 🎓 MCA Graduate | 💻 Full-Stack Developer  
-- 🚀 Passionate about building real-world applications with clean, scalable code.
-  
-
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-      </td>
-    </tr>
-  </table>
-</div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
+    </td>
+  </tr>
+</table>
 
 
 
