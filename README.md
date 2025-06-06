@@ -20,9 +20,9 @@
 
   ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> About Me
 
-  - 👨‍🎓 Final year PG student at **KIIT University**  
-  - 💻 Major in **Computer Applications**  
-  - 🌱 Always learning and experimenting with new technologies to turn ideas into reality.  
+ - 👨‍💻 Software Engineer Intern @ Sursa Tech Pvt. Ltd. | 🎓 MCA Graduate | 💻 Full-Stack Developer  
+- 🚀 Passionate about building real-world applications with clean, scalable code.
+  
 
       </td>
       <td>
