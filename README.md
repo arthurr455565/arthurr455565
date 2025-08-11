@@ -65,8 +65,8 @@
   <a href="https://github.com/arthurr455565/Diabetes-Prediction-Using-ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Diabetes-Prediction-Using-ML&theme=tokyonight&hide_border=true&show_icons=true" alt="Diabetes Prediction" />
   </a>
-  <a href="https://github.com/arthurr455565/Preyas-Android-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Preyas-Android-App&theme=tokyonight&hide_border=true&show_icons=true" alt="Preyas App" />
+  <a href="https://github.com/arthurr455565/FullStack-Student_MS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=FullStack-Student_MS&theme=tokyonight&hide_border=true&show_icons=true" alt="FullStack-Student_MS" />
   </a>
   <a href="https://github.com/arthurr455565/Responsive-portfolio-website-Bishal-Roy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=Responsive-portfolio-website-Bishal-Roy&theme=tokyonight&hide_border=true&show_icons=true" alt="Portfolio" />
@@ -104,7 +104,7 @@
 </p>
 
 <!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake Animation</h2>
+<h2 align="center">Contribution</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=arthurr455565&palette=github-dark" alt="GitHub Contribution Snake" />
 </p>
