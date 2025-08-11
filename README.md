@@ -91,11 +91,10 @@
 ## ⏳ Weekly WakaTime Stats
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/bishalroy909.svg" alt="Total coding time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bishal%20Roy&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://wakatime.com/@bishalroy909">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bishalroy909&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime stats" />
+  </a>
+  
 </p>
 
 ---
