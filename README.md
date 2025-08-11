@@ -51,9 +51,8 @@
 ---
 
 ## ⏳ Weekly Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bishal%20Roy&theme=tokyonight&hide_border=true" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
