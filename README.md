@@ -323,7 +323,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="35" height="35" /> **Certifications & Skills**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="35" height="35" /> **Skills**
 
 <div align="center">
 
@@ -345,20 +345,6 @@ Apidog                  ██████████████████�
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="35" height="35" /> **Philosophy & Fun Facts**
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Programming Joke"/>
-      </td>
-    </tr>
-  </table>
   
   <br>
   
@@ -373,8 +359,6 @@ Apidog                  ██████████████████�
   - 🎮 **Debugging Style:** Rubber duck debugging + strategic console.logs
   
 </div>
-
-<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="📄" width="35" height="35" /> **Resume & Contact**
 
