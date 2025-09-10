@@ -25,8 +25,8 @@
 <td width="50%" valign="top">
 
 ### 🚀 **Professional Journey**
-- 💼 **Software Engineer Intern** @ **Sursa Tech Pvt. Ltd.**
-- 🎓 **MCA Graduate** | **Full-Stack Specialist**
+- 💼 **Software Engineer | Quality Assurance | API Testing | Continuous Integration & Agile QA Practices**
+- 🎓 **Master’s in Computer Applications, with advanced knowledge in software development, systems analysis, and IT solutions.**
 - 📍 **Location:** Nepal 🇳🇵
 - 🎯 **Focus:** Building scalable, user-centric applications
 
