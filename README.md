@@ -245,7 +245,9 @@
 </p>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 
 <h3 align="center"><strong>⛏️ Kcoin</strong></h3>
 <div align="center">
@@ -261,7 +263,6 @@
 </p>
 
 </td>
-
 </tr>
 </table>
 
