@@ -1,5 +1,3 @@
-# 🚀 Here's Your **EXTRAORDINARY** GitHub Profile README:
-
 <!-- Custom Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bishal%20Roy&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20QA%20Virtuoso%20%7C%20Code%20Architect&descAlignY=55&descAlign=50&descSize=22"/>
 
