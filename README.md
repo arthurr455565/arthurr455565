@@ -245,6 +245,23 @@
 </p>
 
 </td>
+<td width="50%">
+
+<h3 align="center"><strong>⛏️ Kcoin</strong></h3>
+<div align="center">
+  <a href="https://github.com/arthurr455565/KCoin-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurr455565&repo=KCoin-Project&theme=tokyonight&hide_border=true&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB" alt="KCoin" />
+  </a>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+</td>
+
 </tr>
 </table>
 
